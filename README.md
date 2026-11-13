@@ -9,7 +9,7 @@ An interactive e-commerce website for small-batch Indian teas. Browse, search, f
 
 ### 🔗 Live site: **[annu9111.github.io/Tea-Store](https://annu9111.github.io/Tea-Store/)**
 
-![Narmada Leaf screenshot](screenshot.png)
+![Narmada Leaf screenshot](Screenshot.png)
 
 ---
 
